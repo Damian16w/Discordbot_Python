@@ -90,4 +90,4 @@ async def ban(ctx, member: discord.Member, reason=None):
     
 bot.add_command(ban)
 
-bot.run('MTE4NzMxOTM1MTcxNjYyMjM4Nw.Gl-Yus.KwmQicKMHQ6Jsj3IL-kg5iZDRrzC4ix0Mm4v4w')
+bot.run('')
